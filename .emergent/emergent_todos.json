@@ -1,0 +1,54 @@
+[
+  {
+    "content": "Restore repo djdjskjs/sipro ke workspace + deps + env (JWT_SECRET) + services hidup",
+    "status": "completed"
+  },
+  {
+    "content": "Fase A: pulihkan baseline hijau (split models.py; verify_ia_v2 pakai LEDGER PINTU RESMI; temuan form E2 ditutup) — 26 gate PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase B: cacat nyata CAPI diperbaiki (seed menulis conversion_events langsung tanpa event_id/hash) + migrasi backfill + komentar RBAC ads dibetulkan",
+    "status": "completed"
+  },
+  {
+    "content": "Fase B: gate ke-27 verify_ads.py + mutasi_43.py (19 mutasi, 38/38 PASS) + 3 cacat UI iklan diperbaiki",
+    "status": "completed"
+  },
+  {
+    "content": "Fase B: E2E multi-peran Fase 43 (testing agent iterasi 65, 100%) + bukti browser alur tulis (kampanye, biaya manual idempoten, wizard CSV)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase C: POC poc_44.py (kontrak metrik + tie-out) HIJAU",
+    "status": "completed"
+  },
+  {
+    "content": "Fase C: lapisan metrik 47 metrik + /api/analytics/* + snapshot rebuildable + RBAC analytics",
+    "status": "completed"
+  },
+  {
+    "content": "Fase C: UI /bi — 5 dashboard persona + Kamus Metrik, kejujuran angka & drill-down",
+    "status": "completed"
+  },
+  {
+    "content": "Fase C: gate ke-28 verify_analytics.py + mutasi_44.py (15 mutasi, 30/30 PASS); run_all_gates.sh = 28 gate PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase C: E2E multi-peran /bi (testing agent iterasi 66, 99%) + perbaikan konfirmasi rebuild snapshot",
+    "status": "completed"
+  },
+  {
+    "content": "Governance: plan.md, test_result.md, CODEBASE_MAP.md, docs/v2/40 ledger, memory/test_credentials.md diperbarui",
+    "status": "completed"
+  },
+  {
+    "content": "Fase D: Target Proyek & Budget/RAB (docs/v2/32) + gate verify_budget_target.py — BELUM DIKERJAKAN",
+    "status": "pending"
+  },
+  {
+    "content": "Fase E: Konsolidasi Proyek & Konstruksi (docs/v2/29) + gate verify_build_hub.py — BELUM DIKERJAKAN",
+    "status": "pending"
+  }
+]
